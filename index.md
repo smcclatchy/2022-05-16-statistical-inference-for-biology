@@ -96,7 +96,6 @@ AUDIENCE
 Explain who your audience is.  (In particular, tell readers if the
 workshop is only open to people from a particular institution.
 {% endcomment %}
-{% include none/who.html %}
 
 {% comment %}
 LOCATION
@@ -243,12 +242,13 @@ Edit the text to match who can attend the workshop. For instance:
 - This workshop is open to the public.
 - If you are interested in attending this workshop, contact me@example.com
   for more information
-
+{% endcomment %}
+  
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to ....
+    The course is aimed at graduate students and other researchers at JAX and elsewhere. You should have basic R skills to participate successfully in this workshop.
 </p>
-{% endcomment %}
+
 
 <hr/>
 
