@@ -1,0 +1,22 @@
+Timestamp,What is the most important thing you learned today?,Write down one thing that is confusing and you’d like clarification on.,Is there anything else you'd like to add?
+4/8/21 11:55,"Mostly, this lesson was a refresher",,
+4/8/21 11:56,"R programing, R packages",NA,NA
+4/8/21 11:56,new packages and pipe function,questions answered by helpers-thank you!,
+4/8/21 11:57,Information regarding samples as random variables and how we can use certain commands in R to navigate statistics of data,,
+4/8/21 11:58,Get help when you need it,"the stats make sense and are moving at a good pace, the 'extra library' with R threw me for a loop, but helpers got me back on track. ",you all are awesome!
+4/8/21 11:58,useful R tips- shortcuts and how to correct the errors from having conflicting variables from other packages,"lots of screens- Zoom (with chat window), RStudio, the etherpad. I don't really need clarification but it was lot to keep up with",
+4/8/21 11:58,"I learned quite a bit about using pipes, which I will apply in my own research. ",Today's lesson was fairly straight forward. I feel confident with most of the concepts and methods. ,"The icebreaker was fun, but I'm not sure how much it added and whether or not it was necessary - 20 minutes of extra work time. "
+4/8/21 11:58,"understanding shapes of data distributions(standard deviations), not just the mean.","you went through cumulative distribution a little quickly. I think I got it, but a little review might be nice.","I see there are lots of exercises on the GitHub. It would be nice to give those to us as ""homework"" for next week."
+4/8/21 12:03,"mostly I already know, but nice to learn little different ways to do stuff.",Nothing confusing,Great thanks!
+4/8/21 12:08,Make sure you load the packages and check that is loaded to avoid errors when you run the scripts.,Assigning variables,Can Dan Kerchner's script be posted on GitHub? Thanks. 
+4/8/21 13:26,,,"Great course, I think in the next sessions I will learn more. I did notice that we spent almost an hour installing things in R which everyone should have done in advance. Maybe the beginning could have been sped up, this did distract my focus quite a bit. But I agree, people are at different levels with regards to R skills so a middle ground has to be found.  "
+4/8/21 14:17,How to set a Montecarlo simulation in R.,No. ,"I was expecting a bit more of statistics rather than R basics, but I guess this will come in next sessions."
+4/15/21 11:52,"That I will mostly be using the T-test in practice, which is easily done on R",,
+4/15/21 11:54,A more in-depth understanding of the t-test. ,How to use permutations for small sample sizes. ,
+4/15/21 11:54,I appreciated learning about various applications for testing / sample assurance.,P-values (one sided t tests?) in relation to a dose response remains a hazy topic.   ,
+4/15/21 11:56,,,Mitch was very enthusiastic and engaging. It would have been easier to keep up if he a) used R studio and b) used the same code (although it was fun to watch him work through the questions and then realize the official document solved them totally differently).
+4/15/21 11:57,qq plots,,"More visuals, I understand what pnorm is doing, but showing it on a histogram using abline would be helpful for visual learners like myself."
+4/15/21 11:59,Concept of CLTs and t-test,Still need to go back and digest the first part. it was little fast for me.,"I couldnt follow the first part since the screen is switching from R-studio to class page and missing the comand to type in, and missed the next...etc. So I figured out its better to be able to have codes in the lecture page and just copy-paste and listen to the lecture. Maybe its better if the lecturer can focus more on the detail of the codes other than typing in, just showing step by step, which parameters refers which..."
+4/22/21 11:54,Confidence interval,Power calculation,
+4/22/21 11:57,pnorm and qnorm difference. Power calculations.,NA,"I liked the pace of this session, especially the script was ready to copy and paste and I could pay attention to what was being explained by Annat!"
+4/22/21 12:32,This helped me understand sample size assurances a bit better with more details regarding the t.test and power calculations. ,"I found the confusion matrix explanation maybe wasn't the easiest thing to follow in relation to more ""fundamental"" code / math. ",
